@@ -2,7 +2,7 @@
 ---
 ## Description
 
-This reefinery is about shell, c, and twitter:
+this reefinery is about shell, c, and twitter:
 
 ## Author
 `stefan silverio`
